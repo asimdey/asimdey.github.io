@@ -1,0 +1,52 @@
+---
+title: ""
+page-layout: full
+---
+
+::: {.hero}
+# Asim K. Dey
+
+<p class="lead">Assistant Professor of Statistics · Department of Mathematics and Statistics · Texas Tech University</p>
+
+
+
+## About Me
+I am an Assistant Professor (Tenure Track) in the Department of Mathematics and Statistics at Texas Tech University, where I have been a faculty member since August 2024. My research focuses on developing statistical and machine-learning methodology for complex data, with particular emphasis on complex networks, topological and geometric data analysis, causal inference, Bayesian modeling, deep learning, and extreme value theory. These methodological developments are motivated by applications in critical infrastructure, medical imaging, brain networks, epidemiology, climatology, and finance.
+
+Prior to joining Texas Tech University, I was an Assistant Professor at The University of Texas at El Paso, a Postdoctoral Research Associate at The University of Texas at Dallas, and a Visiting Research Collaborator in the Department of Electrical and Computer Engineering at Princeton University.
+
+
+
+## Research areas
+
+::: {.badge-list}
+<span>Topological Data Analysis</span><span>Complex Networks</span><span>Bayesian Modeling</span><span>Causal Inference</span><span>Deep Learning</span><span>Extreme Value Theory</span><span>Biomedical Data</span><span>Environmental & Climate Applications</span>
+:::
+
+
+[**Google Scholar**](https://scholar.google.com/citations?user=h7Qmvt0AAAAJ&hl=en){.btn .btn-primary target="_blank"}
+&nbsp;
+[**ResearchGate**](https://www.researchgate.net/profile/Asim-Dey-6){.btn .btn-outline-primary target="_blank"}
+
+
+
+## Selected recent work
+
+-  Rajakaruna, S. N. K., **Dey, A. K.**, & Chatterjee, S. (2026). **Enhancing Structural to Functional Brain Network Prediction Using Topological Graph Learning.** *Frontiers in Neuroscience*, published online. [Article](https://www.frontiersin.org/-/10.3389/fnins.2026.1939985/abstract){target="_blank"}.
+
+- Disanayakage, G. V. W. W., & **Dey, A. K.** (2026). **Bayesian Spatial Modeling of Measles Outbreak in Texas, USA.** *Environmental and Ecological Statistics*, **33**, 811–834. [DOI: 10.1007/s10651-026-00718-5](https://doi.org/10.1007/s10651-026-00718-5){target="_blank"}.
+
+- **Dey, A. K.**, & Gel, Y. R. (2026). **Integrating Statistical Data Depth and Topological Methods for Anomaly Detection in Weighted Dynamic Networks.** *Technometrics*, 1–14. [DOI: 10.1080/00401706.2026.2643214](https://doi.org/10.1080/00401706.2026.2643214){target="_blank"}.
+
+- **Dey, A. K.**, & Kundu, S. (2025). **Complex network and topological data analysis methods for county level COVID-19 vaccine acceptance analysis in the US.** *Statistics in Medicine*, **44**(18–19), e70109. [DOI: 10.1002/sim.70109](https://doi.org/10.1002/sim.70109){target="_blank"}.
+
+
+- Mustaquim, S. M., **Dey, A. K.**, & Mandal, A. (2025). **Understanding How Network Geometry Influences Diffusion Processes in Complex Networks: A Focus on Cryptocurrency Blockchains and Power Grid Networks.** *Journal of the Royal Statistical Society, Series A (Statistics in Society)*, qnaf146. [DOI: 10.1093/jrsssa/qnaf146](https://doi.org/10.1093/jrsssa/qnaf146){target="_blank"}.
+
+
+
+## Contact
+
+**Department of Mathematics and Statistics**  
+Texas Tech University · Lubbock, TX 79409, USA  
+Email: [a.dey@ttu.edu](mailto:a.dey@ttu.edu)

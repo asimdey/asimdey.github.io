@@ -1,0 +1,25 @@
+---
+title: "Research"
+---
+
+My research lies at the intersection of modern statistics, data science, topology, and network science. I develop methodology for complex structured data and pursue applications in biomedical science, public health, infrastructure systems, climate, and finance.
+
+## Topological and geometric data analysis
+
+I develop topological and geometric approaches for extracting multiscale structure from networks, images, and other complex data. Current directions include persistent-homology-based inference, topological validation of generated scientific images, topology-guided medical image generation, and topological methods for anomaly and change-point detection.
+
+## Complex networks
+
+My network research includes resilience and reliability, community detection, diffusion, dynamic and multilayer networks, network geometry, and experimental design under interference. Applications include power grids, mobility systems, cryptocurrency blockchains, brain networks, and epidemiological networks.
+
+## Biomedical and brain data
+
+Current projects investigate topological learning for structural and functional brain networks, persistent homology for brain MRI, digital twins for neuroimages, and statistical validation of synthetic biomedical images.
+
+## Bayesian, spatial, and causal modeling
+
+I work on Bayesian spatial and spatio-temporal models, causal inference, and environmental epidemiology. Current applications include air pollution and asthma, infectious disease outbreaks, and climate-related risk.
+
+## Extreme events and climate
+
+My work in extreme value theory and environmental statistics addresses extreme rainfall, snowfall, air pollution, and weather-related risk, including neural-network-based approaches to extremes.

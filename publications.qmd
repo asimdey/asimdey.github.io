@@ -1,0 +1,29 @@
+---
+title: "Publications"
+---
+
+## Selected Publications
+
+1. Rajakaruna, S. N. K., **Dey, A. K.**, & Chatterjee, S. (2026). **Enhancing Structural to Functional Brain Network Prediction Using Topological Graph Learning.** *Frontiers in Neuroscience*, published online. [Article](https://www.frontiersin.org/-/10.3389/fnins.2026.1939985/abstract){target="_blank"}.
+
+2. Disanayakage, G. V. W. W., & **Dey, A. K.** (2026). **Bayesian Spatial Modeling of Measles Outbreak in Texas, USA.** *Environmental and Ecological Statistics*, **33**, 811–834. [DOI: 10.1007/s10651-026-00718-5](https://doi.org/10.1007/s10651-026-00718-5){target="_blank"}.
+
+3. **Dey, A. K.**, & Gel, Y. R. (2026). **Integrating Statistical Data Depth and Topological Methods for Anomaly Detection in Weighted Dynamic Networks.** *Technometrics*, 1–14. [DOI: 10.1080/00401706.2026.2643214](https://doi.org/10.1080/00401706.2026.2643214){target="_blank"}.
+
+4. **Dey, A. K.**, & Mamun, A. (2026). **Modeling air pollution in Dhaka with Bayesian generalized additive mixed model and quantile regression.** *Environmental and Ecological Statistics*, **33**, 653–675. [DOI: 10.1007/s10651-026-00720-x](https://doi.org/10.1007/s10651-026-00720-x){target="_blank"}.
+
+5. Mustaquim, S. M., **Dey, A. K.**, & Mandal, A. (2025). **Understanding How Network Geometry Influences Diffusion Processes in Complex Networks: A Focus on Cryptocurrency Blockchains and Power Grid Networks.** *Journal of the Royal Statistical Society, Series A (Statistics in Society)*, qnaf146. [DOI: 10.1093/jrsssa/qnaf146](https://doi.org/10.1093/jrsssa/qnaf146){target="_blank"}.
+
+6. **Dey, A. K.**, & Kundu, S. (2025). **Complex network and topological data analysis methods for county level COVID-19 vaccine acceptance analysis in the US.** *Statistics in Medicine*, **44**(18–19), e70109. [DOI: 10.1002/sim.70109](https://doi.org/10.1002/sim.70109){target="_blank"}.
+
+7. **Dey, A. K.**, Young, S. J., & Gel, Y. R. (2023). **From Delaunay Triangulation to Topological Data Analysis: Generation of More Realistic Synthetic Power Grid Networks.** *Journal of the Royal Statistical Society: Series A (Statistics in Society)*, **186**(3), 335–354. [DOI: 10.1093/jrsssa/qnad066](https://doi.org/10.1093/jrsssa/qnad066){target="_blank"}.
+
+8. **Dey, A. K.**, Tian, Y., & Gel, Y. R. (2022). **Community detection in complex networks: from statistical foundations to data science applications.** *WIREs Computational Statistics*, **14**(2), e1566. [DOI: 10.1002/wics.1566](https://doi.org/10.1002/wics.1566){target="_blank"}.
+
+9. Yuvaraj, M., **Dey, A. K.**, Lyubchich, V., Gel, Y. R., & Poor, H. V. (2021). **Topological Clustering of Multilayer Networks.** *Proceedings of the National Academy of Sciences (PNAS)*, **118**(21). [DOI: 10.1073/pnas.2019994118](https://doi.org/10.1073/pnas.2019994118){target="_blank"}. **Best Paper Award, ASA SDNS 2020.**
+
+10. **Dey, A. K.**, Gel, Y. R., & Poor, H. V. (2019). **What network motifs tell us about resilience and reliability of complex networks.** *Proceedings of the National Academy of Sciences (PNAS)*, **116**(39), 19368–19373. [DOI: 10.1073/pnas.1819529116](https://doi.org/10.1073/pnas.1819529116){target="_blank"}. **Best Paper Award, ASA SDNS 2019.**
+
+
+
+For the complete publication list, see my [**Google Scholar Profile**](https://scholar.google.com/citations?user=h7Qmvt0AAAAJ&hl=en){target="_blank"}.

@@ -1,0 +1,45 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Asim K. Dey"
+  site-url: "https://asimdey.github.io"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: presentations.qmd
+        text: Presentations
+      - href: teaching.qmd
+        text: Teaching
+      - href: students.qmd
+        text: Students
+      - href: grants.qmd
+        text: Grants
+    right:
+      - href: files/Asim_Dey_CV.pdf
+        text: CV
+      - href: files/SIAM2023.pdf
+        text: SIAM2023
+      - href: files/ICERM2025.pdf
+        text: ICERM2025
+        
+        
+        
+  page-footer:
+    center: "© 2026 Asim Kumer Dey · Texas Tech University"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    smooth-scroll: true
+
+execute:
+  freeze: auto

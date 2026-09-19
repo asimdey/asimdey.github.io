@@ -1,0 +1,100 @@
+---
+title: "Presentations"
+---
+
+## Invited Research Seminars
+
+1. **Topological Data Analysis and Data Depth for Detecting Anomalies in Temporal Networks**  
+   Texas Tech University, December 5, 2023.
+
+2. **Topological Clustering of Multilayer Networks**  
+   The University of Texas at El Paso, December 9, 2020.
+
+3. **Topological Clustering of Multilayer Networks**  
+   University of New Brunswick (Fredericton), Canada, October 27, 2020.
+
+4. **Topological Data Analysis (TDA) for Time Series**  
+   The University of North Carolina at Greensboro, November 6, 2020.
+
+5. **Multivariate Risk Modeling for Precipitation-related Home Insurance Claims**  
+   University of Maryland Center for Environmental Science, October 30, 2019.
+
+6. **Role of Higher Order Topological Features in Robustness and Functionality of Complex Networks**  
+   Department of Mathematical Sciences, Kent State University, March 15, 2019.
+
+## Conference Presentations
+ 
+1. **Hypothesis Testing for Comparing Biomedical Image Distributions Using Persistent Homology**  
+   2026 Joint Statistical Meetings (JSM), Boston, MA, August 2026.
+
+2. **A Persistent Homology-based Hypothesis Test for Comparing Images with Application to Digital Twins of Biomedical Images**  
+   Conference of Texas Statisticians (COTS), The University of Texas at Austin, Austin, TX, April 2026.
+
+3. **Topological Clustering of Multilayer Networks** *(Invited)*  
+   2025 Joint Statistical Meetings (JSM), Nashville, Tennessee, August 2025.
+
+4. **A Persistent Homology-based Hypothesis Test for Comparing Image Distributions with Application to Digital Twins of Biomedical Images**  
+   Matroids, Rigidity, and Algebraic Statistics Workshop, Institute for Computational and Experimental Research in Mathematics (ICERM), Brown University, RI, March 2025.
+ 
+5. **Survival Analysis for Topological Data Analysis Features** *(Invited)*  
+   The 6th SIAM Texas-Louisiana Sectional Meeting (SIAM TX-LA 2023), University of Louisiana at Lafayette, November 2023.
+
+6. **A network analysis approach to evaluating COVID-19 vaccine acceptance in the US** *(Invited)*  
+   The International Environmetrics Society (TIES) Regional Meeting, Trent University, Canada, July 26, 2023.
+
+7. **Topological anomaly detection in a temporal transportation network** *(Invited)*  
+   American Mathematical Society (AMS) Fall Central Meeting, September 2022.
+
+8. **Topological anomaly detection in a temporal transportation network** *(Invited)*  
+   The 4th Annual Meeting of the SIAM Texas-Louisiana Section, November 2021.
+
+9. **Topological Clustering of Multilayer Networks** *(Invited)*  
+   The 4th International Conference on Econometrics and Statistics (EcoSta 2021), June 25, 2021.
+
+10. **Impacts of COVID-19 local spread and Google search trend on the US stock market**  
+    NSF Conference on COVID-19 Modeling, January 29, 2021.
+
+11. **Topological and Geometric Methods for Resilience Analysis of Power Grid Networks** *(Invited)*  
+    2020 Joint Statistical Meetings (JSM), virtual (due to COVID-19 pandemic), August 3, 2020.
+
+12. **Determinants of High Crude Oil Price: A Nonstationary Extreme Value Approach**  
+    The Lloyd Roeling UL Lafayette Mathematics Conference, Lafayette, LA, October 2019.
+
+13. **What Network Motifs Tell Us about Robustness and Reliability of Complex Networks**  
+    Joint Algorithms for Threat Detection (ATD) + Algorithms for Modern Power Systems (AMPS) Annual Workshop, The George Washington University, Washington, DC, October 2019.
+
+14. **On Role of Local Blockchain Network Features in Cryptocurrency Price Formation**  
+    Foundations for Blockchain Data Analytics Workshop, Statistical and Applied Mathematical Sciences Institute (SAMSI), Durham, NC, October 2019.
+
+15. **What Do Network Motifs Tell Us about Resilience and Reliability of Complex Networks?**  
+    2019 Joint Statistical Meetings (JSM), Denver, CO.
+
+16. **What Do Local Geometry Tell Us about Resilience and Reliability of Complex Networks?**  
+    Conference on Geometric Data Analysis, The Stevanovich Center for Financial Mathematics, The University of Chicago, 2019.
+
+17. **What Do Network Motifs Tell Us about Robustness and Reliability of Complex Networks?**  
+    The 6th Annual Texas STEM Conference, Lamar University, TX, 2018. *(2nd place in Graduate Student Oral Presentation)*
+
+18. **Development of synthetic power grid networks**  
+    2018 NSF PIs Workshop for the Algorithms for Modern Power Systems (AMPS) Program, American University, Washington, DC, October 2018.
+
+19. **Modeling Weather-induced Home Insurance Risks: A Machine Learning Approach**  
+    Conference of Texas Statisticians (COTS), Southern Methodist University, Dallas, TX, March 2017.
+
+20. **Modeling Weather-induced Home Insurance Risks with Support Vector Machine Regression**  
+    17th SIAM International Conference on Data Mining (SDM), Houston, TX, April 2017.
+
+21. **Modeling and Forecasting Weather-related House Insurance Claims with Modern Machine Learning Approaches**  
+    NSF-EDT Kick-Off Meeting, University of Texas at Dallas, October 2016.
+
+22. **Modeling Extreme Aviation Accident using the Generalized Pareto Distribution**  
+    11th Annual UNCG Regional Mathematics and Statistics Conference, The University of North Carolina at Greensboro, NC, October 2015.
+
+23. **Modeling Extreme Hurricane Damage in the United States: Generalized Pareto Model Approach**  
+    Conference of Texas Statisticians (COTS), The University of Texas at Austin, Austin, TX, March 2015. *(3rd place in Graduate Student Poster Competition)*
+
+24. **Quantifying Extreme Hurricane Risk in the United States Gulf Coast**  
+    Conference of Texas Statisticians (COTS), University of Texas at Dallas, Dallas, TX, March 2014.
+
+25. **Reading Interest of Middle School Student and Educational Achievement**  
+    Education Research Conference, Lamar University, Beaumont, TX, March 2014.

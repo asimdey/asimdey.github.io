@@ -4,7 +4,7 @@ title: "Grants & Projects"
 
 ## Funded projects
 
-**Aspects of Digital Twin Studies for Neuroimages**  
+**Aspects of Digital Twin Studies for Neuroimages**   
 NSF DMS 2453756 · 2024–2027 · PI, Texas Tech University
 
 **Subcontract: Open Climate Workbench to support efficient and innovative analysis of NASA's high-resolution observations and modeling datasets (21-AIST21$_{-}$2-0020)**  

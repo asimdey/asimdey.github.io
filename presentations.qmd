@@ -1,6 +1,28 @@
 ---
 title: "Presentations"
 ---
+
+## Invited Research Seminars
+
+1. **Topological Data Analysis and Data Depth for Detecting Anomalies in Temporal Networks**  
+   Texas Tech University, December 5, 2023.
+
+2. **Topological Clustering of Multilayer Networks**  
+   The University of Texas at El Paso, December 9, 2020.
+
+3. **Topological Clustering of Multilayer Networks**  
+   University of New Brunswick (Fredericton), Canada, October 27, 2020.
+
+4. **Topological Data Analysis (TDA) for Time Series**  
+   The University of North Carolina at Greensboro, November 6, 2020.
+
+5. **Multivariate Risk Modeling for Precipitation-related Home Insurance Claims**  
+   University of Maryland Center for Environmental Science, October 30, 2019.
+
+6. **Role of Higher Order Topological Features in Robustness and Functionality of Complex Networks**  
+   Department of Mathematical Sciences, Kent State University, March 15, 2019.
+
+## Conference Presentations
  
 1. **Hypothesis Testing for Comparing Biomedical Image Distributions Using Persistent Homology**  
    2026 Joint Statistical Meetings (JSM), Boston, MA, August 2026.
@@ -13,15 +35,9 @@ title: "Presentations"
 
 4. **A Persistent Homology-based Hypothesis Test for Comparing Image Distributions with Application to Digital Twins of Biomedical Images**  
    Matroids, Rigidity, and Algebraic Statistics Workshop, Institute for Computational and Experimental Research in Mathematics (ICERM), Brown University, RI, March 2025.
-   [📄 **View Slides**](files/ICERM2025.pdf){target="_blank"}
-  
+ 
 5. **Survival Analysis for Topological Data Analysis Features** *(Invited)*  
    The 6th SIAM Texas-Louisiana Sectional Meeting (SIAM TX-LA 2023), University of Louisiana at Lafayette, November 2023.
-   
-5. **Survival Analysis for Topological Data Analysis Features** *(Invited)*  
-   The 6th SIAM Texas-Louisiana Sectional Meeting (SIAM TX-LA 2023), University of Louisiana at Lafayette, November 2023.  
-   [📄 **View Slides**](files/SIAM2023.pdf){target="_blank"}
-   
 
 6. **A network analysis approach to evaluating COVID-19 vaccine acceptance in the US** *(Invited)*  
    The International Environmetrics Society (TIES) Regional Meeting, Trent University, Canada, July 26, 2023.

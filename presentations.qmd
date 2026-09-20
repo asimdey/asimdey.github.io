@@ -14,14 +14,10 @@ title: "Presentations"
 4. **A Persistent Homology-based Hypothesis Test for Comparing Image Distributions with Application to Digital Twins of Biomedical Images**  
    Matroids, Rigidity, and Algebraic Statistics Workshop, Institute for Computational and Experimental Research in Mathematics (ICERM), Brown University, RI, March 2025.
    [📄 **View Slides**](files/ICERM2025.pdf){target="_blank"}
-  
-5. **Survival Analysis for Topological Data Analysis Features** *(Invited)*  
-   The 6th SIAM Texas-Louisiana Sectional Meeting (SIAM TX-LA 2023), University of Louisiana at Lafayette, November 2023.
-   
+
 5. **Survival Analysis for Topological Data Analysis Features** *(Invited)*  
    The 6th SIAM Texas-Louisiana Sectional Meeting (SIAM TX-LA 2023), University of Louisiana at Lafayette, November 2023.  
-   [📄 **View Slides**](files/SIAM2023.pdf){target="_blank"}
-   
+   [📄 **View Slides**](files/SIAM2023.pdf){target="_blank"} 
 
 6. **A network analysis approach to evaluating COVID-19 vaccine acceptance in the US** *(Invited)*  
    The International Environmetrics Society (TIES) Regional Meeting, Trent University, Canada, July 26, 2023.

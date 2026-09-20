@@ -21,15 +21,7 @@ website:
         text: Students
       - href: grants.qmd
         text: Grants
-    right:
-      - href: files/Asim_Dey_CV.pdf
-        text: CV
-      - href: files/SIAM2023.pdf
-        text: SIAM2023
-      - href: files/ICERM2025.pdf
-        text: ICERM2025
-        
-        
+
         
   page-footer:
     center: "© 2026 Asim Kumer Dey · Texas Tech University"

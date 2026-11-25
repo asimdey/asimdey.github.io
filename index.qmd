@@ -32,6 +32,8 @@ Prior to joining Texas Tech University, I was an Assistant Professor at The Univ
 
 ## Selected recent work
 
+- **Dey, A. K.**, Goel, J., Chatterjee, S., Gel, Y. R., & Poor, H. V. (2026). **Topological Validation of Generated Scientific Images.** *Proceedings of the National Academy of Sciences*, **123**(48), e2622414123. [DOI: 10.1073/pnas.2622414123](https://doi.org/10.1073/pnas.2622414123){target="_blank"}.
+
 -  Rajakaruna, S. N. K., **Dey, A. K.**, & Chatterjee, S. (2026). **Enhancing Structural to Functional Brain Network Prediction Using Topological Graph Learning.** *Frontiers in Neuroscience*, **20**, 1-17. [DOI: 10.3389/fnins.2026.1939985](https://doi.org/10.3389/fnins.2026.1939985){target="_blank"}. 
 
 - Disanayakage, G. V. W. W., & **Dey, A. K.** (2026). **Bayesian Spatial Modeling of Measles Outbreak in Texas, USA.** *Environmental and Ecological Statistics*, **33**, 811–834. [DOI: 10.1007/s10651-026-00718-5](https://doi.org/10.1007/s10651-026-00718-5){target="_blank"}.
